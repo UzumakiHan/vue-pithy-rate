@@ -1,0 +1,30 @@
+{
+  "id": "2541347",
+  "name": "rate",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "372282",
+      "name": "cc-star-half",
+      "font_class": "star-half",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "773017",
+      "name": "star",
+      "font_class": "star-o",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "17631402",
+      "name": "star",
+      "font_class": "star",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
